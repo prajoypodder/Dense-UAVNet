@@ -1,5 +1,1 @@
-Author: Prajoy Podder, Maciej Zawodniok, Sanjay Madria
-
-Institution: Missouri University of Science and Technology
-
 Unmanned Aerial Vehicles (UAVs) are advertised as great tool that benefits society and humanity. However, UAVs also pose significant security threats ranging from privacy invasions, to interfering with commercial aircraft landing and takeoff, to accidently crashing into vehicles or people, to military or terrorist attacks. Consequently, there is a pressing need to detect and identify UAVs to mitigate such potential risks. While image-based methods are crucial for UAV detection, radio frequency (RF) emissions offer additional valuable insights. Analyzing RF signals, such as those used in UAV-ground station communications, can provide information about UAV types based on distinct frequency usage or communication patterns. This work introduces a deep-learning-based approach for recognizing and identifying UAVs using their RF emissions.
